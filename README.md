@@ -265,10 +265,8 @@ Think of it like a traffic officer with AI superpowers. Here's what it does:
 
 ## 🎬 Demo Video
 
-Watch the project in action!  
-<video width="100%" height="auto" controls>
-  <source src="URL_OF_YOUR_DEMO_VIDEO" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+[![Watch the Demo Video](https://img.youtube.com/vi/6qNhkllHpeg/0.jpg)](https://youtu.be/6qNhkllHpeg)
+
+👉 Click the image above or [watch the video on YouTube](https://youtu.be/6qNhkllHpeg)
 
 ---
